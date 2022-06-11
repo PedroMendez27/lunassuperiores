@@ -4,4 +4,12 @@
 .row{
 height: 100%;
  background-color: black;
+} 
+.celdas{
+    margin-top: 20px;
+    color:rgb(255, 255, 255);
+}
+
+#logo{
+    margin-right: 900px; 
 }
