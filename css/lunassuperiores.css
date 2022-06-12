@@ -1,0 +1,60 @@
+#header2{
+    background-color: rgb(43, 42, 42);
+}
+
+.celdas{
+    margin-top: 20px;
+    color:rgb(255, 255, 255);
+}
+
+#logo{
+    margin-right: 900px; 
+}
+
+#wp{
+    background-image: url("C:\xampp\htdocs\AplicacionesWeb\proyecto\src\fondo.png.png");
+}
+
+.monse{
+    font-family: montserrat;
+    font-size: 100px;
+}
+
+body{
+    background-image: url("https://wallpaperaccess.com/full/7959677.jpg");
+}
+
+#contenido{
+    background-color: rgb(43, 42, 42);
+    height: 900px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+footer{
+    background-color: rgb(43, 42, 42);
+}
+
+#menusito1{
+    color: rgb(214, 214, 214);
+}
+#menusito2{
+    color: rgb(214, 214, 214);
+}
+#menusito3{
+    color: rgb(214, 214, 214);
+}
+#menusito4{
+    color: rgb(214, 214, 214);
+}
+#menusito5{
+    color: rgb(214, 214, 214);
+}
+#menusito6{
+    color: rgb(214, 214, 214);
+}
+
+.txtblanco{
+    color: white;
+}
+
